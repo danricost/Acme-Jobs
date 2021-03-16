@@ -24,6 +24,7 @@
 			<acme:menu-suboption code="master.menu.anonymous.frabrelozlink" action="http://www.google.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.danricostlink" action="https://www.youtube.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.robpazrivlink" action="http://www.google.com/"/>
+			<acme:menu-suboption code="master.menu.anonymous.ismlunatilink" action="http://www.google.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.rodsangonlink" action="https://www.youtube.com/"/>
 		</acme:menu-option>
 

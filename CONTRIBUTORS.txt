@@ -11,3 +11,4 @@
 - Rafael Corchuelo (corchu@us.es)
 - Daniel Rico Ostos (danricost@alum.us.es)
 - Gonzalo Rodríguez Terrón (gonrodter@alum.us.es)
+- Francisco Jose Brenes Lozano (frabreloz@alum.us.es)

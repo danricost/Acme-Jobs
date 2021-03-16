@@ -10,7 +10,7 @@
 
 # master.banner.welcome #######################################################
 
-master.banner.background = #F9B121 
+master.banner.background = #FFE97F  
 
 # master.welcome ##############################################################
 

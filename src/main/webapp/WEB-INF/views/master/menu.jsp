@@ -23,6 +23,7 @@
 			<acme:menu-suboption code="master.menu.anonymous.gonrodterlink" action="http://www.marca.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.frabrelozlink" action="http://www.google.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.danricostlink" action="https://www.youtube.com/"/>
+			<acme:menu-suboption code="master.menu.anonymous.robpazrivlink" action="http://www.google.com/"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
@@ -60,4 +61,3 @@
 		<acme:menu-option code="master.menu.sign-out" action="/master/sign-out" access="isAuthenticated()"/>
 	</acme:menu-right>
 </acme:menu-bar>
-
